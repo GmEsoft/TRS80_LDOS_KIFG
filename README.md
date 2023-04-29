@@ -23,3 +23,5 @@ Then rename `KIFG.CMD` to `KIFR.DVR` or `KIGR.DVR` .
 To load in LDOS 5.3:
 - `SET *KI KIFR` for the AZERTY French version
 - `SET *KI KIGR` for the QWERTY German version
+
+*Pre-release (tag v0.3-alpha in the Releases section.*
